@@ -1,0 +1,6 @@
+/Users/developer/Projects/Biblioteca/Biblioteca/bin/Debug/Biblioteca.exe
+/Users/developer/Projects/Biblioteca/Biblioteca/bin/Debug/Biblioteca.pdb
+/Users/developer/Projects/Biblioteca/Biblioteca/obj/Debug/Biblioteca.csprojAssemblyReference.cache
+/Users/developer/Projects/Biblioteca/Biblioteca/obj/Debug/Biblioteca.csproj.CoreCompileInputs.cache
+/Users/developer/Projects/Biblioteca/Biblioteca/obj/Debug/Biblioteca.exe
+/Users/developer/Projects/Biblioteca/Biblioteca/obj/Debug/Biblioteca.pdb

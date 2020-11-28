@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{96516882-1F04-468F-AB02-01AA1B6CF89C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Biblioteca/Program.cs">
+    <Files>
+      <File FileName="Biblioteca/Libro.cs" Line="45" Column="29" />
+      <File FileName="Biblioteca/Socio.cs" Line="11" Column="44" />
+      <File FileName="Biblioteca/SocioVip.cs" Line="7" Column="36" />
+      <File FileName="Biblioteca/Ejemplar.cs" Line="12" Column="10" />
+      <File FileName="Biblioteca/Program.cs" Line="16" Column="39" />
+      <File FileName="Biblioteca/Prestamo.cs" Line="21" Column="1" />
+      <File FileName="Biblioteca/SocioClasico.cs" Line="15" Column="72" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Biblioteca" expanded="True">
+            <Node name="Biblioteca" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Biblioteca PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
